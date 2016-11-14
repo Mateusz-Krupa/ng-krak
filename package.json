@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A workflow for Angular made with Webpack",
   "scripts": {
+    "api": "json-server --watch db.json",
     "build": "rimraf dist && webpack --bail --progress --profile",
     "server": "webpack-dev-server --history-api-fallback --inline --progress",
     "test": "karma start",
@@ -35,6 +36,7 @@
     "html-webpack-plugin": "^2.7.1",
     "isparta-loader": "^2.0.0",
     "jasmine-core": "^2.3.4",
+    "json-server": "^0.9.0",
     "karma": "^1.1.0",
     "karma-coverage": "^1.0.0",
     "karma-jasmine": "^1.0.2",

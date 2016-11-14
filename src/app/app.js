@@ -1,25 +1,10 @@
-import angular from 'angular';
-
 import '../style/app.css';
 
-let app = () => {
-  return {
-    template: require('./app.html'),
-    controller: 'AppCtrl',
-    controllerAs: 'app'
-  }
-};
+import angular from 'angular';
+import { ModelsModule } from './models/ModelsModule';
+import { RecipeListController } from './components/recipe-list/recipe-list';
 
-class AppCtrl {
-  constructor() {
-    this.url = 'https://github.com/preboot/angular-webpack';
-  }
-}
-
-const MODULE_NAME = 'app';
-
-angular.module(MODULE_NAME, [])
-  .directive('app', app)
-  .controller('AppCtrl', AppCtrl);
-
-export default MODULE_NAME;
+export const AppModule = angular.module("app", [
+  ModelsModule.name
+])
+.component('app', RecipeListController.config());

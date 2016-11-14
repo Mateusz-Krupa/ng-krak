@@ -1,0 +1,29 @@
+{
+  "recipe": [
+    { 
+      "id": 1, 
+      "title": "KOTLETY MIELONE Z INDYKA", 
+      "shortDesc": "Kotlety drobiowe z indyka z dodatkiem pieczarek",
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/kotlety_mielone_z_indyka_0.jpg",
+      "categories": [
+        "KOTLETY", "POTRAWY TRADYCYJNE", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 1,
+          "desc": "Cebulę pokroić w kosteczkę. Pieczarki umyć i pokroić na plasterki. Na patelnię wlać łyżkę oliwy i dodać łyżkę masła klarowanego. Dodać cebulę i pieczarki i co chwilę mieszając smażyć ok. 5 minut."
+        },{
+          "order": 2, 
+          "desc": "W międzyczasie dodać starty czosnek, tymianek, a pod koniec drobno posiekane listki natki pietruszki. Zmielić razem z mięsem w maszynce przez sitko o dużych oczkach. Jeśli używamy zmielonego już mięsa, pieczarki możemy posiekać w melakserze lub nożem na desce."
+        }, {
+          "order": 3,
+          "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
+        }
+      ]
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
