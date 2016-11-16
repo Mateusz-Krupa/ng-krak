@@ -20,10 +20,31 @@
           "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
         }
       ]
+    },
+    { 
+      "id": 2, 
+      "title": "FALAFEL", 
+      "shortDesc": "Pyszny falafel" ,
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/falafel.jpg",
+      "categories": [
+        "KOTLETY", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 2,
+          "desc": "To smażone w głębokim tłuszczu kulki lub kotleciki ze zmielonej, wcześniej namoczonej ciecierzycy, doprawionej czosnkiem, natką, kolendrą i kuminem. Popularna wegańska potrawa w krajach arabskich. Lubiana na całym świecie, szczególnie jako street food i roślinna alternatywa kebabu."
+        },{
+          "order": 1, 
+          "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
+        }
+      ]
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "categories": [
+    { "id": 1, "name": "Śniadanie"},
+    { "id": 2, "name": "Drugie Śniadanie"},
+    { "id": 1, "name": "Obiad"},
+    { "id": 4, "name": "Podwieczorek"},
+    { "id": 5, "name": "Kolacja"}
+  ]
 }
