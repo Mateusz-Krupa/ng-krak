@@ -17,14 +17,14 @@ exports.config = {
 
  capabilities: {
    'browserName': 'chrome',
- },
+ } ,
 
  onPrepare: function () {
    var SpecReporter = require('jasmine-spec-reporter');
    // add jasmine spec reporter
    jasmine.getEnv().addReporter(new SpecReporter({displayStacktrace: true}));
-
-   browser.ignoreSynchronization = true;
+  //  export LANG=en_US.UTF-8 fix for stupid protractor error on iOS
+  //    browser.ignoreSynchronization = true;
  },
 
 

@@ -1,6 +1,6 @@
 class RecipePageObject {
   constructor(){
-    this.name = $('.recipe-list');  
+    this.name = $('header');  
   }
 }
 

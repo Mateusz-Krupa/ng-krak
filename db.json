@@ -38,13 +38,208 @@
           "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
         }
       ]
+    },
+    { 
+      "id": 3, 
+      "title": "KOTLETY MIELONE Z INDYKA", 
+      "shortDesc": "Kotlety drobiowe z indyka z dodatkiem pieczarek",
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/kotlety_mielone_z_indyka_0.jpg",
+      "categories": [
+        "KOTLETY", "POTRAWY TRADYCYJNE", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 1,
+          "desc": "Cebulę pokroić w kosteczkę. Pieczarki umyć i pokroić na plasterki. Na patelnię wlać łyżkę oliwy i dodać łyżkę masła klarowanego. Dodać cebulę i pieczarki i co chwilę mieszając smażyć ok. 5 minut."
+        },{
+          "order": 2, 
+          "desc": "W międzyczasie dodać starty czosnek, tymianek, a pod koniec drobno posiekane listki natki pietruszki. Zmielić razem z mięsem w maszynce przez sitko o dużych oczkach. Jeśli używamy zmielonego już mięsa, pieczarki możemy posiekać w melakserze lub nożem na desce."
+        }, {
+          "order": 3,
+          "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
+        }
+      ]
+    },
+    { 
+      "id": 4, 
+      "title": "FALAFEL", 
+      "shortDesc": "Pyszny falafel" ,
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/falafel.jpg",
+      "categories": [
+        "KOTLETY", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 2,
+          "desc": "To smażone w głębokim tłuszczu kulki lub kotleciki ze zmielonej, wcześniej namoczonej ciecierzycy, doprawionej czosnkiem, natką, kolendrą i kuminem. Popularna wegańska potrawa w krajach arabskich. Lubiana na całym świecie, szczególnie jako street food i roślinna alternatywa kebabu."
+        },{
+          "order": 1, 
+          "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
+        }
+      ]
+    },
+        { 
+      "id": 5, 
+      "title": "KOTLETY MIELONE Z INDYKA", 
+      "shortDesc": "Kotlety drobiowe z indyka z dodatkiem pieczarek",
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/kotlety_mielone_z_indyka_0.jpg",
+      "categories": [
+        "KOTLETY", "POTRAWY TRADYCYJNE", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 1,
+          "desc": "Cebulę pokroić w kosteczkę. Pieczarki umyć i pokroić na plasterki. Na patelnię wlać łyżkę oliwy i dodać łyżkę masła klarowanego. Dodać cebulę i pieczarki i co chwilę mieszając smażyć ok. 5 minut."
+        },{
+          "order": 2, 
+          "desc": "W międzyczasie dodać starty czosnek, tymianek, a pod koniec drobno posiekane listki natki pietruszki. Zmielić razem z mięsem w maszynce przez sitko o dużych oczkach. Jeśli używamy zmielonego już mięsa, pieczarki możemy posiekać w melakserze lub nożem na desce."
+        }, {
+          "order": 3,
+          "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
+        }
+      ]
+    },
+    { 
+      "id": 6, 
+      "title": "FALAFEL", 
+      "shortDesc": "Pyszny falafel" ,
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/falafel.jpg",
+      "categories": [
+        "KOTLETY", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 2,
+          "desc": "To smażone w głębokim tłuszczu kulki lub kotleciki ze zmielonej, wcześniej namoczonej ciecierzycy, doprawionej czosnkiem, natką, kolendrą i kuminem. Popularna wegańska potrawa w krajach arabskich. Lubiana na całym świecie, szczególnie jako street food i roślinna alternatywa kebabu."
+        },{
+          "order": 1, 
+          "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
+        }
+      ]
+    },
+        { 
+      "id": 7, 
+      "title": "KOTLETY MIELONE Z INDYKA", 
+      "shortDesc": "Kotlety drobiowe z indyka z dodatkiem pieczarek",
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/kotlety_mielone_z_indyka_0.jpg",
+      "categories": [
+        "KOTLETY", "POTRAWY TRADYCYJNE", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 1,
+          "desc": "Cebulę pokroić w kosteczkę. Pieczarki umyć i pokroić na plasterki. Na patelnię wlać łyżkę oliwy i dodać łyżkę masła klarowanego. Dodać cebulę i pieczarki i co chwilę mieszając smażyć ok. 5 minut."
+        },{
+          "order": 2, 
+          "desc": "W międzyczasie dodać starty czosnek, tymianek, a pod koniec drobno posiekane listki natki pietruszki. Zmielić razem z mięsem w maszynce przez sitko o dużych oczkach. Jeśli używamy zmielonego już mięsa, pieczarki możemy posiekać w melakserze lub nożem na desce."
+        }, {
+          "order": 3,
+          "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
+        }
+      ]
+    },
+    { 
+      "id": 8, 
+      "title": "FALAFEL", 
+      "shortDesc": "Pyszny falafel" ,
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/falafel.jpg",
+      "categories": [
+        "KOTLETY", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 2,
+          "desc": "To smażone w głębokim tłuszczu kulki lub kotleciki ze zmielonej, wcześniej namoczonej ciecierzycy, doprawionej czosnkiem, natką, kolendrą i kuminem. Popularna wegańska potrawa w krajach arabskich. Lubiana na całym świecie, szczególnie jako street food i roślinna alternatywa kebabu."
+        },{
+          "order": 1, 
+          "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
+        }
+      ]
+    },
+        { 
+      "id": 1, 
+      "title": "KOTLETY MIELONE Z INDYKA", 
+      "shortDesc": "Kotlety drobiowe z indyka z dodatkiem pieczarek",
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/kotlety_mielone_z_indyka_0.jpg",
+      "categories": [
+        "KOTLETY", "POTRAWY TRADYCYJNE", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 1,
+          "desc": "Cebulę pokroić w kosteczkę. Pieczarki umyć i pokroić na plasterki. Na patelnię wlać łyżkę oliwy i dodać łyżkę masła klarowanego. Dodać cebulę i pieczarki i co chwilę mieszając smażyć ok. 5 minut."
+        },{
+          "order": 2, 
+          "desc": "W międzyczasie dodać starty czosnek, tymianek, a pod koniec drobno posiekane listki natki pietruszki. Zmielić razem z mięsem w maszynce przez sitko o dużych oczkach. Jeśli używamy zmielonego już mięsa, pieczarki możemy posiekać w melakserze lub nożem na desce."
+        }, {
+          "order": 3,
+          "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
+        }
+      ]
+    },
+    { 
+      "id": 9, 
+      "title": "FALAFEL", 
+      "shortDesc": "Pyszny falafel" ,
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/falafel.jpg",
+      "categories": [
+        "KOTLETY", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 2,
+          "desc": "To smażone w głębokim tłuszczu kulki lub kotleciki ze zmielonej, wcześniej namoczonej ciecierzycy, doprawionej czosnkiem, natką, kolendrą i kuminem. Popularna wegańska potrawa w krajach arabskich. Lubiana na całym świecie, szczególnie jako street food i roślinna alternatywa kebabu."
+        },{
+          "order": 1, 
+          "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
+        }
+      ]
+    },
+        { 
+      "id": 10, 
+      "title": "KOTLETY MIELONE Z INDYKA", 
+      "shortDesc": "Kotlety drobiowe z indyka z dodatkiem pieczarek",
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/kotlety_mielone_z_indyka_0.jpg",
+      "categories": [
+        "KOTLETY", "POTRAWY TRADYCYJNE", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 1,
+          "desc": "Cebulę pokroić w kosteczkę. Pieczarki umyć i pokroić na plasterki. Na patelnię wlać łyżkę oliwy i dodać łyżkę masła klarowanego. Dodać cebulę i pieczarki i co chwilę mieszając smażyć ok. 5 minut."
+        },{
+          "order": 2, 
+          "desc": "W międzyczasie dodać starty czosnek, tymianek, a pod koniec drobno posiekane listki natki pietruszki. Zmielić razem z mięsem w maszynce przez sitko o dużych oczkach. Jeśli używamy zmielonego już mięsa, pieczarki możemy posiekać w melakserze lub nożem na desce."
+        }, {
+          "order": 3,
+          "desc": "Zmielone mięso i pieczarki umieścić w misce, dodać sól, pieprz, jajko, bułkę tartą oraz sos sojowy jeśli go używamy. Dokładnie wymieszać."
+        }
+      ]
+    },
+    { 
+      "id": 11, 
+      "title": "FALAFEL", 
+      "shortDesc": "Pyszny falafel" ,
+      "image": "http://www.kwestiasmaku.com/sites/kwestiasmaku.com/files/falafel.jpg",
+      "categories": [
+        "KOTLETY", "KUCHNIA POLSKA", "DANIA GŁÓWNE"
+      ], 
+      "steps": [
+        {
+          "order": 2,
+          "desc": "To smażone w głębokim tłuszczu kulki lub kotleciki ze zmielonej, wcześniej namoczonej ciecierzycy, doprawionej czosnkiem, natką, kolendrą i kuminem. Popularna wegańska potrawa w krajach arabskich. Lubiana na całym świecie, szczególnie jako street food i roślinna alternatywa kebabu."
+        },{
+          "order": 1, 
+          "desc": "Namoczoną ciecierzycę najlepiej zmiksować w melakserze. Idealny falafel jest z zewnątrz chrupiący, w środku natomiast miękki. Taki właśnie otrzymamy z poniższego przepisu."
+        }
+      ]
     }
   ],
   "categories": [
-    { "id": 1, "name": "Śniadanie"},
-    { "id": 2, "name": "Drugie Śniadanie"},
-    { "id": 1, "name": "Obiad"},
-    { "id": 4, "name": "Podwieczorek"},
-    { "id": 5, "name": "Kolacja"}
+    { "id": 1, "name": "Śniadanie", "img": "/img/1breakfast.jpg"},
+    { "id": 2, "name": "Drugie Śniadanie", "img": "/img/2breakfast.jpg"},
+    { "id": 1, "name": "Obiad", "img": "/img/lunch.jpeg"},
+    { "id": 4, "name": "Podwieczorek", "img": "/img/afternoonsnack.jpeg"},
+    { "id": 5, "name": "Kolacja", "img": "/img/dinner.jpeg"}
   ]
 }
