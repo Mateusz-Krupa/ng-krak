@@ -1,0 +1,6 @@
+Category List
+
+<div ng-repeat="item in $ctrl.items"> 
+  <img class="category-list__img" ng-src="{{item.img}}" />
+  <remove-button on-remove="$ctrl.onRemove(index)" index="{{$index}}"> <remove-button>
+</div>

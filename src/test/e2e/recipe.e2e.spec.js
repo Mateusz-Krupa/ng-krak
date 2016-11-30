@@ -3,12 +3,17 @@ var RecipePageObject = require('./pageObjects/RecipePageObject')
 describe('angularjs homepage', function() {
 
 
-  var recipe = new RecipePageObject();
+  var categoryComponent = new RecipePageObject();
   beforeEach(() => {
-    browser.get('/');
+    browser.get('/#/category-list');
   })
 
   it('should greet the named user', function() {
-    expect(recipe.name.getText()).toEqual("header");
+    let listSize = categoryComponent.listElements.count();
+    categoryComponent.removeButtons.then((items) => {
+      items[0].click();
+    })
+    let listSizeAfterRemove = categoryComponent.listElements.count();
+    expect(listSize).toBeGreaterThen(listSizeAfterRemove);
   });
 });

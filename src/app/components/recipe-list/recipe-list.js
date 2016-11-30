@@ -1,8 +1,16 @@
 import './recipe-list.css';
 
 export class RecipeListController{
-    constructor( $filter, RecipeModel ) {
-      
+    constructor(RecipeModel ) {
+      this.items = [];
+      this.RecipeModel = RecipeModel;
+    }
+
+
+    getItems(){
+      this.RecipeModel.get().then((res) => {
+          this.items = res.data;
+      })
     }
 
     static config(){

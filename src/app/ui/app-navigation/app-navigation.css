@@ -1,0 +1,7 @@
+.app-navigation__link{
+  background: red;
+  padding: 3px 5px;
+  color: white;
+  font-weight: bold;
+  display: inline-block; 
+}
